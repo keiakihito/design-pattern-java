@@ -1,4 +1,4 @@
-package iterator;
+package iterator.Sample;
 
 import java.util.Iterator;
 

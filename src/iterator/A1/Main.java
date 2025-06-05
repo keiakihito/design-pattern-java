@@ -1,8 +1,8 @@
-package iterator;
+package iterator.A1;
 
 import java.util.Iterator;
-import iterator.Book;
-import iterator.BookShelf;
+import iterator.A1.Book;
+import iterator.A1.BookShelf;
 
 public class Main {
     public static void main(String[] args) {
