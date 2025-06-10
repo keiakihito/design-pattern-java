@@ -32,7 +32,7 @@ In this project:
 
 * `BookShelf` is a collection of `Book` objects.
 * `BookShelf` implements `Iterable<Book>`, so you can use a `for-each` loop.
-* `BookShelfIterator` implements `Iterator<Book>` to define how to traverse the shelf.
+* `BookShelfIteratorimplements `Iterator<Book>` to define how to traverse the shelf.
 
 ---
 
