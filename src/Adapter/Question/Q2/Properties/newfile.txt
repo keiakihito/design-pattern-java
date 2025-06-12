@@ -1,5 +1,5 @@
 #written by FileProperties
-#Thu Jul 01 18:57:34 JST 2021
+#Thu Jun 12 08:44:41 PDT 2025
 depth=32
-width=1024
 height=512
+width=1024
