@@ -38,6 +38,18 @@ In this project:
 
 ## 💪 How to Compile and Run
 
+### Easiest (Main does not have package name)
+
+```
+# すべて out にコンパイル
+javac -d out Sample/*.java
+
+# out/Main.class ができる
+# -cp はclass pathということoutからバイナリファイル(.class)を探し始めると言う意味。
+java -cp out Main
+```
+
+## Alternate method
 ### ✅ Step 1: Compile all Java files
 
 From the root of the project directory:

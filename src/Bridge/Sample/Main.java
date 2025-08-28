@@ -9,3 +9,23 @@ public class Main {
         d3.multiDisplay(5);
     }
 }
+/*
+Sample Run 
+
++-------------+
+|Hello, Japan.|
++-------------+
++-------------+
+|Hello, World.|
++-------------+
++----------------+
+|Hello, Universe.|
++----------------+
++----------------+
+|Hello, Universe.|
+|Hello, Universe.|
+|Hello, Universe.|
+|Hello, Universe.|
+|Hello, Universe.|
++----------------+
+*/
